@@ -1,0 +1,2 @@
+long factorial(long n);
+
